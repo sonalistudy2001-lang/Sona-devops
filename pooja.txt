@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is main project file, i initiated this for my team.
+=======
+
+hello from pooja
+>>>>>>> feature1
